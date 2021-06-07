@@ -37,7 +37,7 @@ Before running the analysis, the following packages must be installed:
 
 ## Example
 
-For a visual reference as to how voila web interface package works, please refer to the below animation:
+For a visual reference as to how the analysis was performed, please refer to the below:
 
 ![Market Data Line](Resources/df_market_data.PNG)
 
