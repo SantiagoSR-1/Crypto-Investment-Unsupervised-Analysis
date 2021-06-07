@@ -12,6 +12,7 @@ Further attempting to hone in on the data, we run a Principal Component Analysis
 
 Finally, we end on a visual comparison of scatter plots created using the original parameter of 4 clusters and the number produced by the k_model to determine what difference exists between the graphs and which is the "better" of the two.
 
+
 ---
 
 ## Technologies
@@ -38,12 +39,11 @@ Before running the analysis, the following packages must be installed:
 
 For a visual reference as to how voila web interface package works, please refer to the below animation:
 
-![Market Data Line](Resources/df_market_data.png)
+![Market Data Line](Resources/df_market_data.PNG)
 
-![Market Data Scaled Scatter](Resources/df_market_data_scaled_scatter.png)
+![Market Data Scaled Scatter](Resources/df_market_data_scaled_scatter.PNG)
 
-![Determining k value](Resources/elbow_curve.png)
-
+![Determining k value](Resources/elbow_curve.PNG)
 
 
 ---
